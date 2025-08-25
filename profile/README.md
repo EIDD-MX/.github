@@ -8,7 +8,7 @@ Nuestra misión es empoderar a instituciones educativas, empresas y gobiernos al
 
 EIDD es una startup en fase de nacimiento y actualmente estamos desarrollando el MVP de nuestra plataforma principal: Ecosphere.
 ---
-🏛️ Marco de Gobernanza EIDD
+### 🏛️ Marco de Gobernanza EIDD
 Nuestro Marco de Gobernanza está específicamente diseñado para el contexto mexicano, regulando y gestionando el Ecosistema EIDD con un enfoque en:
 
 Cumplimiento normativo con la legislación mexicana de protección de datos
