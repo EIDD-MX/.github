@@ -45,5 +45,5 @@ Próximamente tendremos disponibles:
 
 Mientras tanto, puedes seguir nuestros avances aquí en **GitHub**.  
 
-## ❤️ Desarrollado en México
+##
 Desarrollado con ❤️ en México para el mundo.
