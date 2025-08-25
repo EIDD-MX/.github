@@ -28,15 +28,14 @@ Plataforma que permite a instituciones educativas, empresas y gobiernos acceder 
 ---
 🚀 Estado del Proyecto
 Estamos en las primeras etapas de desarrollo de nuestro MVP. Como startup en crecimiento, nuestro ecosistema evolucionará continuamente para adaptarse a las necesidades específicas del contexto mexicano y latinoamericano.
-
-Invitamos a instituciones interesadas a seguir nuestro progreso y eventualmente participar en nuestros programas piloto.
+Invitamos a instituciones interesadas a seguir nuestro progreso.
 ---
 📫 Conoce Más sobre EIDD
 Próximamente tendremos disponibles:
 
 - 🌐 Página web oficial
 - 📱 Página de Facebook
-- -📧 Correo electrónico institucional
+- 📧 Correo electrónico institucional
 Mientras tanto, puedes seguir nuestros avances aquí en GitHub.
 ---
 Desarrollado con ❤️ en México para el mundo
