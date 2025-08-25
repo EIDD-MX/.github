@@ -9,7 +9,6 @@ EIDD es una startup en fase de nacimiento y actualmente estamos desarrollando el
 ---
 ### 🏛️ Marco de Gobernanza EIDD
 Nuestro Marco de Gobernanza está específicamente diseñado para el contexto mexicano, regulando y gestionando el Ecosistema EIDD con un enfoque en:
-
 - Cumplimiento normativo con la legislación mexicana de protección de datos
 - Adaptación a las particularidades del mercado nacional
 - Respeto a la soberanía digital de México
@@ -21,7 +20,6 @@ Ecosphere es el ecosistema integral de EIDD, integrado por diferentes componente
 
 EIDD Studio
 Plataforma que permite a instituciones educativas, empresas y gobiernos acceder a productos y servicios digitales basados en Identidad Digital Descentralizada, incluyendo:
-
 - Emisión de credenciales verificables.
 - Gestión de identidades digitales.
 - Verificación de documentos académicos y profesionales.
@@ -36,12 +34,9 @@ Invitamos a instituciones interesadas a seguir nuestro progreso y eventualmente 
 📫 Conoce Más sobre EIDD
 Próximamente tendremos disponibles:
 
-🌐 Página web oficial
-
-📱 Página de Facebook
-
-📧 Correo electrónico institucional
-
+- 🌐 Página web oficial
+- 📱 Página de Facebook
+- -📧 Correo electrónico institucional
 Mientras tanto, puedes seguir nuestros avances aquí en GitHub.
 ---
 Desarrollado con ❤️ en México para el mundo
