@@ -44,6 +44,5 @@ Próximamente tendremos disponibles:
 - 📧 Correo electrónico institucional  
 
 Mientras tanto, puedes seguir nuestros avances aquí en **GitHub**.  
-
 ##
 Desarrollado con ❤️ en México para el mundo.
