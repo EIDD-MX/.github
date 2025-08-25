@@ -2,7 +2,6 @@
 
 <img width="2250" height="875" alt="Logotipo_Versión_Fondo_Claro@1,25x" src="https://github.com/user-attachments/assets/8c71aae6-2fe3-48e5-aac0-45682dbda5bc" />
 
----
 
 ## ¿Quiénes Somos?
 Somos una empresa pionera en el uso de tecnología de identidad digital descentralizada en México. En EIDD facilitamos la emisión de credenciales verificables y documentos clave, como certificados, títulos, constancias, entre otros mediante soluciones basadas en Blockchain.
@@ -10,8 +9,6 @@ Somos una empresa pionera en el uso de tecnología de identidad digital descentr
 Nuestra misión es empoderar a instituciones educativas, empresas y gobiernos al ofrecerles herramientas innovadoras que aumenten la confianza, la transparencia y la seguridad en los servicios que ofertan por medio de la identidad digital. Conectamos a nuestros clientes con el futuro de la verificación digital, simplificando procesos y promoviendo ecosistemas de confianza.
 
 EIDD es una startup en fase de nacimiento y actualmente estamos desarrollando el MVP de nuestra plataforma principal: **Ecosphere**.
-
----
 
 ## 🏛️ Marco de Gobernanza EIDD
 Nuestro Marco de Gobernanza está específicamente diseñado para el contexto mexicano, regulando y gestionando el Ecosistema EIDD con un enfoque en:
@@ -22,8 +19,6 @@ Nuestro Marco de Gobernanza está específicamente diseñado para el contexto me
 - Fomento a la inclusión financiera y digital  
 - Colaboración con instituciones públicas y privadas nacionales  
 
----
-
 ## 🌟 Ecosphere: Nuestro Proyecto Principal
 **Ecosphere** es el ecosistema integral de EIDD, integrado por diferentes componentes siendo el principal:
 
@@ -33,19 +28,13 @@ Plataforma que permite a instituciones educativas, empresas y gobiernos acceder 
 - Gestión de identidades digitales  
 - Verificación de documentos académicos y profesionales  
 
----
-
 ## 🛠️ Herramientas para el Control de la Identidad Digital
 EIDD ofrece herramientas que permiten a los usuarios tener mayor control sobre su identidad digital y sus credenciales verificables.
-
----
 
 ## 🚀 Estado del Proyecto
 Estamos en las primeras etapas de desarrollo de nuestro MVP. Como startup en crecimiento, nuestro ecosistema evolucionará continuamente para adaptarse a las necesidades específicas del contexto mexicano y latinoamericano.  
 
 Invitamos a instituciones interesadas a seguir nuestro progreso.  
-
----
 
 ## 📫 Conoce Más sobre EIDD
 Próximamente tendremos disponibles:  
@@ -55,8 +44,6 @@ Próximamente tendremos disponibles:
 - 📧 Correo electrónico institucional  
 
 Mientras tanto, puedes seguir nuestros avances aquí en **GitHub**.  
-
----
 
 ## ❤️ Desarrollado en México
 Desarrollado con ❤️ en México para el mundo.
