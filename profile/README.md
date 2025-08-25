@@ -1,5 +1,5 @@
 🌐 EIDD - Ecosistema de Identidad Digital Descentralizado
-<img width="250" height="150" alt="eidd_logotipo_" src="https://github.com/user-attachments/assets/2dfff1dc-66ef-42f6-b58d-78b06c070944" />
+<img width="2250" height="875" alt="Logotipo_Versión_Fondo_Claro@1,25x" src="https://github.com/user-attachments/assets/8c71aae6-2fe3-48e5-aac0-45682dbda5bc" />
 
 ## ¿Quiénes Somos?
 Somos una empresa pionera en el uso de tecnología de identidad digital descentralizada en México. En EIDD facilitamos la emisión de credenciales verificables y documentos clave, como certificados, títulos, constancias, entre otros mediante soluciones basadas en Blockchain.
